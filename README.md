@@ -2,7 +2,7 @@
 Ejercicios de la clase de mate financiera
 
 
-**Que onda profe pongame ya 9 y se libra**
+**Texto en negrita**
 
 ```
 # Este es un ejemplo de codigo
